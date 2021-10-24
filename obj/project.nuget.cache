@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4BaBoT0VlEEUT0QdQFylBRBE7paV4xsyFLlDrvYTRLIIhkHZcB/2h1nWHhO7u3nD4YNu1qF/0az6ZKDb6rU2vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aquila Adrian\\Documents\\Microservices\\PlatformService\\PlatformService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aquila Adrian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Aquila Adrian\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Aquila Adrian\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aquila Adrian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aquila Adrian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Aquila Adrian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
